@@ -10,7 +10,7 @@ Reg# 24496/22460
 <br><br>
 
 <i>Overview </i> <br>
-This advanced undergraduate and graduate studio course will introduce Art&Design focused students to Artificial Intelligence (A.I.) and the discipline of machine learning. We will survey several currently used A.I methodologies (optimization, classification and generative systems) and use case studies to understand some of the fundamental concepts inherent in machine learning. Studio experiments will focus on supervised machine learning in a variety of everyday contexts, and we will engage with machine learning in a variety of coding environments ranging from Runway ML to python-supported TensorFlow on virtual computers.
+This advanced undergraduate and graduate studio course will introduce art and design focused students to Artificial Intelligence and the discipline of machine learning. We will survey several currently used machine learning methodologies (optimization, discovery, classification and generative systems) and use case studies to explore some of the fundamental concepts of machine learning while considering how to give them agency in art and design practices. Studio experiments will focus on supervised machine learning in everyday contexts with the help of coding environments ranging from Runway ML to python-supported TensorFlow on virtual computers.
 
 We will explore how creative thinking can impact the design of machine learning systems and how we can use creative thinking from a critical position not only to question the application and performances of machine learning algorithms, but to change them in specific ways.
 
@@ -30,6 +30,6 @@ tba
 
 <i>Related Courses</i>
 <br>
-[CreativeCoding] (https://github.com/realtechsupport/CreativeCoding)
+[CreativeCoding](https://github.com/realtechsupport/CreativeCoding)
 [ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)  
 [DataNarratives](https://github.com/realtechsupport/DataNarratives)
