@@ -16,7 +16,7 @@ We will explore how creative thinking can impact the design of machine learning 
 
 <i>Coding environments</i>
 <br>
-Python, Julia and Jupyter notebooks
+Runway ML, Python, Julia and Jupyter notebooks
 
 
 <i>Prerequisites</i>
