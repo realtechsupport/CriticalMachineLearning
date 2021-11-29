@@ -30,6 +30,6 @@ tba
 
 <i>Related Courses</i>
 <br>
-[CreativeCoding](https://github.com/realtechsupport/CreativeCoding)
-[ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)  
+[CreativeCoding](https://github.com/realtechsupport/CreativeCoding)<br>
+[ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)<br> 
 [DataNarratives](https://github.com/realtechsupport/DataNarratives)
