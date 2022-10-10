@@ -9,6 +9,11 @@ CFA 146
 Reg# ART543 (#20654) / ART415 (#22205) 
 <br><br>
 
+<p align="center">
+  <img src="https://github.com/realtechsupport/CriticalMachineLearning/blob/main/collaboration_GPT2.jpg?raw=true" alt="John Fishetti in collaboration with Gpt-2"/>
+</p>
+
+
 <i>Overview </i> <br>
 This graduate (and advanced undergraduate) studio course will introduce design focused students to Artificial Intelligence (A.I.) and the discipline of machine learning.
 <br>
