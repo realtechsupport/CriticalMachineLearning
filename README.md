@@ -2,7 +2,7 @@
 
 ART415/543
 <br>
-Tuesday 15:15 - 18:00
+Tuesday 15:15 - 18:15
 <br>
 CFA 146
 <br>
