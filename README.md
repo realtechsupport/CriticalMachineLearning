@@ -6,7 +6,7 @@ Tuesday 15:15 - 18:15
 <br>
 CFA 146
 <br>
-Reg# 24496/22460
+Reg# ART543 (#20654) / ART415 (#22205) 
 <br><br>
 
 <i>Overview </i> <br>
