@@ -4,7 +4,7 @@ ART415/543
 <br>
 Tuesday 15:15 - 18:15
 <br>
-CFA 146
+CFA 136
 <br>
 Reg# ART543 (#20654) / ART415 (#22205) 
 <br>
@@ -12,7 +12,7 @@ Reg# ART543 (#20654) / ART415 (#22205)
 <p align="center">
   <img src="https://github.com/realtechsupport/CriticalMachineLearning/blob/main/collaboration_GPT2.jpg?raw=true" alt="John Fishetti in collaboration with Gpt-2"/>
   <br>
-  Excerpt from a graphic novel created by John Fischetti in collaboration with GPT-2
+  Excerpt from a graphic novel created by John Fischetti in collaboration with GPT-2, Spring 2022
 </p>
 <br>
 
@@ -20,7 +20,7 @@ Reg# ART543 (#20654) / ART415 (#22205)
 This graduate (and advanced undergraduate) studio course will introduce design focused students to Artificial Intelligence (A.I.) and the discipline of machine learning.
 <br>
 In the first part of the course, we will survey several currently used machine learning methodologies (optimization, discovery, classification and generative systems) and use case studies to explore some of the fundamental concepts of machine learning. In the second part of the course, we will move to collaborative activities with state of the art A.I. machines, including the GPT series of text generation systems. We will create artifacts ranging from algorithmically generated fake websites to graphic novels with the assistance of A.I. processes, integrating A.I. artifacts into all the wrong places. Across the two modules, we will consider how A.I. systems impact everyday activities and consider strategies by which we can observe and respond to these changes.
-This course¬ requires programming experience, ideally in the Python language, and the willingness to engage with complexity. We will work in the CoLab environment and also integrate TensorFlow and Pytorch on virtual computers to beautiful constructions.
+This course requires programming experience, ideally in the Python language, and the willingness to engage with complexity. We will work in the CoLab environment and also integrate TensorFlow and Pytorch on virtual computers to beautiful constructions.
 
 
 <i>Coding environments</i>
