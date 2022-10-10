@@ -11,6 +11,7 @@ Reg# ART543 (#20654) / ART415 (#22205)
 
 <p align="center">
   <img src="https://github.com/realtechsupport/CriticalMachineLearning/blob/main/collaboration_GPT2.jpg?raw=true" alt="John Fishetti in collaboration with Gpt-2"/>
+  <br>
   Excerpt from a graphic novel created by John Fischetti in collaboration with GPT-2
 </p>
 
