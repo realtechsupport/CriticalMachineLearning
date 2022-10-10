@@ -10,9 +10,11 @@ Reg# 24496/22460
 <br><br>
 
 <i>Overview </i> <br>
-This advanced undergraduate and graduate studio course will introduce art and design focused students to Artificial Intelligence and the discipline of machine learning. We will survey several currently used machine learning methodologies (optimization, discovery, classification and generative systems) and use case studies to explore some of the fundamental concepts of machine learning while considering how to give them agency in art and design practices. Studio experiments will focus on supervised machine learning in everyday contexts with the help of coding environments ranging from Runway ML to python-supported TensorFlow on virtual computers.
+This graduate (and advanced undergraduate) studio course will introduce design focused students to Artificial Intelligence (A.I.) and the discipline of machine learning.
+<br>
+In the first part of the course, we will survey several currently used machine learning methodologies (optimization, discovery, classification and generative systems) and use case studies to explore some of the fundamental concepts of machine learning. In the second part of the course, we will move to collaborative activities with state of the art A.I. machines, including the GPT series of text generation systems. We will create artifacts ranging from algorithmically generated fake websites to graphic novels with the assistance of A.I. processes, integrating A.I. artifacts into all the wrong places. Across the two modules, we will consider how A.I. systems impact everyday activities and consider strategies by which we can observe and respond to these changes.
+This course¬ requires programming experience, ideally in the Python language, and the willingness to engage with complexity. We will work in the CoLab environment and also integrate TensorFlow and Pytorch on virtual computers to beautiful constructions.
 
-We will explore how creative thinking can impact the design of machine learning systems and how we can use creative thinking from a critical position not only to question the performances of machine learning algorithms, but to change how they operate.
 
 <i>Coding environments</i>
 <br>
