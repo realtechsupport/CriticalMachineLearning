@@ -2,7 +2,7 @@
 # setup basics for VM
 # type sudo chmod +x basics.sh at the command line to make the script executable
 # type " sh basics.sh" at the command line to launch this script
-# RTS, mfeb 2023
+# RTS, feb 2023
 #-------------------------------------------
 clear
 echo "WELCOME - basics for the VM install "
