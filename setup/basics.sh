@@ -24,7 +24,7 @@ pip3 install pandas
 pip3 install scipy
 pip3 install scikit-learn
 
-echo "installed python3, python3dev, python3-venv, numpy, scipy, matplotlib, scikit"
+echo "installed python3, python3dev, python3-venv, numpy, scipy, pandas, matplotlib, scikit"
 
 echo "hit ctrl d to close this session"
 exit 0
