@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    	<link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    	<script defer src="https://pyscript.net/latest/pyscript.js"></script>
+
+	<meta charset="UTF-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<title>CM2</title>
+
+</head>
+
+<body>
+	<h1> TESTING PY-SCRIPT</h1>
+	<h2> Other things you might like to add</h2>
+
+	<img src="solar-flare.jpg" width="500">
+	
+        <p id = 'output1'> </p>
+        <p id = 'output2'> </p>
+
+	<py-config>
+	packages = ["pandas", "numpy", "scikit-learn"]
+
+        [[fetch]]
+        files = ["./classification_helper.py"]
+	</py-config>
+
+
+	<py-script>
+
+	import sys, os
+	from sklearn import datasets
+	from sklearn.model_selection import train_test_split
+	from sklearn.metrics import accuracy_score
+	from sklearn.ensemble import RandomForestClassifier
+	
+
+	from classification_helper import *
+	ntrees = 1000
+	c = 'entropy'
+	d = datasets.load_iris()
+	
+	result1 = Element('output1')
+	result2 = Element('output2')
+
+	train_percentage = 0.25
+	X_train, X_test, y_train, y_test = create_training_test_data(d, train_percentage)
+	accuracy1 = perform_rf_classification(ntrees, c, X_train, y_train, X_test, y_test)
+	result1.write("The first result is: " + str(accuracy1))
+
+	train_percentage = 0.50
+	X_train, X_test, y_train, y_test = create_training_test_data(d, train_percentage)
+	accuracy2 = perform_rf_classification(ntrees, c, X_train, y_train, X_test, y_test)
+	result2.write("The second result is: " + str(accuracy2))
+
+    	</py-script>
+
+</body>
+</html>
