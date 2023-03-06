@@ -80,7 +80,7 @@ def get_text():
 
 #-------------------------------------------
 
-# Storing the chat
+# Keep track of the text
 if ('generated' not in st.session_state):
 	st.session_state['generated'] = []
 
