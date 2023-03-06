@@ -46,7 +46,7 @@ import openai
 import streamlit as st
 from streamlit_chat import message
 
-authpath = "/home/marcbohlen/data/auth/"
+authpath = "/path 2 the auth directory/"
 authfile = "gpt_auth.txt"
 f = open(authpath + authfile, 'r')
 lines = f.readlines()
