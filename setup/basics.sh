@@ -21,9 +21,10 @@ pip3 install matplotlib
 pip3 install pandas
 pip3 install scipy
 pip3 install scikit-learn
-pip3 install opencv-python
+#pip3 install opencv-python
+pip3 install torch
 
-echo "installed python3, python3dev, python3-venv, matplotlib, numpy, pandas, pillow, scikit, scipy, opencv"
+echo "installed python3, python3dev, python3-venv, matplotlib, numpy, pandas, pillow, scikit, scipy, torch"
 echo "hit ctrl d to close this session"
 exit 0
 #end this operation by closing the terminal and lanuching a new SSH session
