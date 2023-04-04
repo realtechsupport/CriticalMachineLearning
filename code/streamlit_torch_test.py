@@ -17,7 +17,7 @@
 #
 # create a virtual environment
 #
-# conda env create streamlit python=3.10
+# conda create -n streamlit python=3.10
 #
 # activate
 #
