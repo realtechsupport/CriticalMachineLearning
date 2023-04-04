@@ -45,8 +45,9 @@
 import openai 
 import streamlit as st
 from streamlit_chat import message
+import torch
 
-authpath = "/path 2 the auth directory/"
+authpath = "/home/marcbohlen/data/auth/"
 authfile = "gpt_auth.txt"
 f = open(authpath + authfile, 'r')
 lines = f.readlines()
@@ -80,7 +81,7 @@ def get_text():
 
 #-------------------------------------------
 
-# Keep track of the text
+# Storing the chat
 if ('generated' not in st.session_state):
 	st.session_state['generated'] = []
 
