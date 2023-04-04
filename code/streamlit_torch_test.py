@@ -24,6 +24,9 @@
 # conda activate streamlit
 #
 # create code, data and auth directories
+
+# install streamlit
+# pip3 install streamlit
 #
 # run the script
 #
