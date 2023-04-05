@@ -6,6 +6,7 @@
 # new VM - ubuntu 20.04LTS
 #
 # create firewall; open TCP 5000 - 9000
+# details: https://github.com/cs231n/gcloud/
 #
 # update
 #
@@ -15,18 +16,19 @@
 # wget https://repo.anaconda.com/miniconda/Miniconda2-latest-Linux-x86_64.sh
 # sh ./Miniconda2-latest-Linux-x86_64.sh
 #
-# create a virtual environment
+# create a virtual environment with python 3.10
 #
 # conda create -n streamlit python=3.10
 #
 # activate
 #
-# conda activate streamlit
+# conda activate environment
 #
 # create code, data and auth directories
 
-# install streamlit
+# install streamlit and torch
 # pip3 install streamlit
+# pip3 install torch
 #
 # run the script
 #
