@@ -11,10 +11,11 @@ from collections import Counter
 from sklearn.model_selection import train_test_split
 
 from lstm_helper import *
-
+datapath = 'path to your data directory'
 #--------------------------------------------------------------------------------
+# Create the model
 class Args:
-	max_epochs = 5  	#(start with 5)
+	max_epochs = 5  	#start with 5
 	batch_size = 256
 	sequence_length = 4
 	source = 'https://raw.githubusercontent.com/realtechsupport/CriticalMachineLearning/main/various_datasets/reddit_cleanjokes.txt'
@@ -22,16 +23,21 @@ class Args:
 args=Args()
 dataset = Dataset(args)
 model = RNN_LSTM(dataset)
-
 print('model created')
+#--------------------------------------------------------------------------------
+#Train the model
 print('using these args: ', args.max_epochs, args.batch_size, args.sequence_length)
 print('training...')
 train(dataset, model, args)
-#-----------------------------------------------------------------------------
-
+#--------------------------------------------------------------------------------
+# Evaluate the model
 print('evaluating')
 starter = 'Knock knock. Who''s there?'
 next_words = 6
 result = predict(dataset, model, starter, next_words)
-
 print(result)
+#--------------------------------------------------------------------------------
+# Save the model
+modelpath = datapath + '/jokemodel.pt'
+torch.save(model.state_dict(), modelpath)
+#--------------------------------------------------------------------------------
