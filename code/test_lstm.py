@@ -17,7 +17,7 @@ class Args:
 	max_epochs = 5  	#(start with 5)
 	batch_size = 256
 	sequence_length = 4
-	source = 'https://raw.githubusercontent.com/amoudgl/short-jokes-dataset/master/data/reddit-cleanjokes.csv'
+	source = 'https://raw.githubusercontent.com/realtechsupport/CriticalMachineLearning/main/various_datasets/reddit_cleanjokes.txt'
 
 args=Args()
 dataset = Dataset(args)
