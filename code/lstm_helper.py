@@ -6,7 +6,6 @@ from torch.utils.data import DataLoader
 from collections import Counter
 from sklearn.model_selection import train_test_split
 
-
 class Dataset(torch.utils.data.Dataset):
     def __init__(
         self,
@@ -45,7 +44,6 @@ class Dataset(torch.utils.data.Dataset):
         )
 
 #----------------------------------------------------------------------------------------
-
 class RNN_LSTM(nn.Module):
     def __init__(self, dataset):
         super(RNN_LSTM, self).__init__()
@@ -77,7 +75,6 @@ class RNN_LSTM(nn.Module):
                 torch.zeros(self.num_layers, sequence_length, self.lstm_size))
 
 #------------------------------------------------------------------------------
-
 def train(dataset, model, args):
 	model.train()
 	dataloader = DataLoader(dataset, batch_size=args.batch_size)
@@ -104,7 +101,6 @@ def train(dataset, model, args):
 	#return(loss.item())
 
 #--------------------------------------------------------------------------------
-
 def predict(dataset, model, text, next_words):
     model.eval()
 
