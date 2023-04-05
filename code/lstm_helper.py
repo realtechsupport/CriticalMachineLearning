@@ -22,7 +22,7 @@ class Dataset(torch.utils.data.Dataset):
         self.words_indexes = [self.word_to_index[w] for w in self.words]
 
     def load_words(self):
-        train_df = pandas.read_csv(self.args.source)
+        train_df = pandas.read_csv(self.args.source, sep='\t')
         stext = train_df['Joke'].str.cat(sep=' ')
         text = stext.split(' ')
         return (text)
