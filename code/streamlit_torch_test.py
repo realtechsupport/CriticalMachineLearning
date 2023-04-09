@@ -20,9 +20,9 @@
 #
 # conda create -n streamlit python=3.10
 #
-# activate
+# activate environment called streamlit
 #
-# conda activate environment
+# conda activate streamlit
 #
 # create code, data and auth directories
 
