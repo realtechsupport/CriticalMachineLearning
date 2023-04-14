@@ -13,6 +13,7 @@ sudo apt-get upgrade -y
 sudo apt-get install python3-dev -y
 sudo apt-get install build-essential python3-dev -y
 sudo apt-get install python3-venv -y
+sudo apt install python3-pip
 # packages
 pip3 install --upgrade pip
 pip3 install --upgrade pillow
