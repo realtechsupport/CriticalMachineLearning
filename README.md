@@ -14,9 +14,9 @@ Reg# ART543 (#20654) / ART415 (#22205)
        alt="Top:John Fishetti in collaboration with Gpt-2, 2022. Bottom: Group project: Neural Recipe Box, 2023"/>
   <br>
   <sub>Top: John Fishetti in collaboration with GPT-2, 2022. <br> Bottom: Ruolin Chen, Xiaoxu Dong, Saiteja Gangavaram, Skrikar Gopaladinne, 
-  Hemanth Gorla, Divya Kandukuri, Kathryn Korenblyum, Sean Mansfeld and Kelsey Rupe in collaboration with GPT-3.5 and DALL-E: Neural Recipe Box, 2023 </sub>
+  Hemanth Gorla, Divya Kandukuri, Kathryn Korenblyum, Sean Mansfeld and Kelsey Rupe in collaboration with GPT-3.5 and DALL-E: Neural Recipe Box, 2023. </sub>
 </p>
-<br>
+<br><br>
 
 <i>Overview </i> <br>
 This graduate (and advanced undergraduate) studio course will introduce design focused students to Artificial Intelligence (A.I.) and the discipline of machine learning.
