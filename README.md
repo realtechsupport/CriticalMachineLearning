@@ -13,7 +13,7 @@ Reg# ART543 (#20654) / ART415 (#22205)
   <img src="https://github.com/realtechsupport/CriticalMachineLearning/blob/main/student_work.jpg?raw=true" 
        alt="Top:John Fishetti in collaboration with Gpt-2, 2022. Bottom: Group project: Neural Recipe Box, 2023"/>
   <br>
-  Top: John Fishetti in collaboration with GPT-2, 2022. Bottom: Ruolin Chen, Xiaoxu Dong, Saiteja Gangavaram, Skrikar Gopaladinne, <br>
+  Top: John Fishetti in collaboration with GPT-2, 2022. <br> Bottom: Ruolin Chen, Xiaoxu Dong, Saiteja Gangavaram, Skrikar Gopaladinne, 
   Hemanth Gorla, Divya Kandukuri, Kathryn Korenblyum, Sean Mansfeld and Kelsey Rupe in collaboration with GPT-3.5 and DALL-E: Neural Recipe Box, 2023
 </p>
 <br>
