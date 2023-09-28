@@ -1,5 +1,7 @@
 # Computational Media II: CriticalMachineLearning
+<p align="center">
 <i>AI in all the wrong places</i>
+</p>
 
 ART415/543
 <br>
