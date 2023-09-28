@@ -1,5 +1,5 @@
 
-# Computational Media II: AI in all the wrong places
+# Computational Media II: AI in all the Wrong Places
 </p>
 
 ART415/543
