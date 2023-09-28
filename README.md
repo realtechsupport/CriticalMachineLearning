@@ -1,4 +1,5 @@
 # Computational Media II: CriticalMachineLearning
+<i>AI in all the wrong places</i>
 
 ART415/543
 <br>
@@ -18,7 +19,7 @@ Reg# ART543 (#20654) / ART415 (#22205)
 </p>
 <br><br>
 
-<i>Overview </i> <br>
+<i>Overview [</i>](https://github.com/realtechsupport/CriticalMachineLearning) <br>
 This graduate (and advanced undergraduate) studio course will introduce design focused students to Artificial Intelligence (A.I.) and the discipline of machine learning.
 <br>
 In the first part of the course, we will survey several currently used machine learning methodologies (optimization, discovery, classification and generative systems) and use case studies to explore some of the fundamental concepts of machine learning; from Naive Bayes classifiers to large language models. In the second part of the course, we will move to collaborative activities with state of the art A.I. machines, including the GPT series of text and image generation systems. We will create artifacts ranging from graphic novels to interactive websites with the assistance of A.I. processes, integrating A.I. artifacts into all the wrong places. Across the two modules, we will consider how A.I. systems impact everyday activities and consider strategies by which we can observe and respond to these changes.
