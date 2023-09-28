@@ -31,7 +31,7 @@ This course requires programming experience, ideally in the Python language, and
 
 <i>Coding environments</i>
 <br>
-Python, Pytorch, OpenAI API and Jupyter notebooks
+Python, Pytorch, OpenAI API, Virtual Computers and Jupyter Notebooks
 
 
 <i>Prerequisites</i>
