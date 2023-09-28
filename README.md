@@ -1,6 +1,6 @@
 # Computational Media II: CriticalMachineLearning
 <p align="center">
-<font size="24"> <i>AI in all the wrong places</i> </font>
+##  <i>AI in all the wrong places</i> 
 </p>
 
 ART415/543
