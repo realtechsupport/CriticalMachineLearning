@@ -1,14 +1,14 @@
 
-# Computational Media II: AI in all the Wrong Places
+# Computational Media II: Take the pulse of AI models
 </p>
 
 ART415/543
 <br>
-Tuesday 15:15 - 18:15
+Monday 15:15 - 18:00
 <br>
 CFA 136
 <br>
-Reg# ART543 (#20654) / ART415 (#22205) 
+Reg# ART543 (#23052) / ART415 (#22205) 
 <br>
 
 <p align="center">
@@ -21,16 +21,20 @@ Reg# ART543 (#20654) / ART415 (#22205)
 <br><br>
 
 <i>Overview [</i>](https://github.com/realtechsupport/CriticalMachineLearning) <br>
-This graduate (and advanced undergraduate) studio course will introduce design focused students to Artificial Intelligence (A.I.) and the discipline of machine learning.
+This advanced undergraduate and graduate course introduces students to the art and science of probing the behavior of Generative Artificial Intelligence (GenAI) systems.
 <br>
-In the first part of the course, we will survey several currently used machine learning methodologies (optimization, discovery, classification and generative systems) and use case studies to explore some of the fundamental concepts of machine learning; from Naive Bayes classifiers to large language models. In the second part of the course, we will move to collaborative activities with state of the art A.I. machines, including the GPT series of text and image generation systems. We will create artifacts ranging from graphic novels to interactive websites with the assistance of A.I. processes, integrating A.I. artifacts into all the wrong places. Across the two modules, we will consider how A.I. systems impact everyday activities and consider strategies by which we can observe and respond to these changes.
-
-This course requires programming experience, ideally in the Python language, and the willingness to engage with complexity. We will work in the CoLab environment and also integrate Pytorch and Streamlit on virtual computers to beautiful constructions.
+Artificial Intelligence—particularly its generative branch GenAI—has become a site of cultural and technical transformation, reshaping how knowledge is produced and interpreted across disciplines. Unlike traditional software with deterministic outputs, GenAI systems can produce varied and context-dependent responses to the same input, making their study both technically and critically complex.
+<br>
+The course begins with a survey of early generative paradigms such as genetic algorithms before turning to the foundational mechanisms of modern Large Language Models. Core topics include transformer architectures, reinforcement learning, and reward modeling. Building on these, we will examine downstream issues such as alignment, jailbreaking (techniques to bypass model constraints), and red teaming (methods for identifying vulnerabilities).
+<br>
+Students will apply these concepts in guided, hands-on explorations of contemporary AI systems developed by frontier labs (e.g., Google, Meta, OpenAI, Anthropic). Following introductory exercises, student teams will design mixed-methods experiments to document and analyze model behavior in context. Exercises will unfold in open-source tools and environments such as Google Colab, computational notebooks, and remote scripting frameworks. Students will learn how to construct multi-shot prompts, programmatically interface with AI models, and assess system outputs using text-based metrics such as relevance, coherence, and specificity, as well as correlation analyses for bias detection. Alongside these technical investigations, the course integrates critical and humanities-based frameworks - including concepts such as technoslop, kitsch, and nostalgia - to sharpen the interpretive analysis of GenAI artifacts.
+<br>
+Spanning all of these activities we will seek to understand how the evolving landscape of AI systems is impacting trust, authorship, and knowledge production across disciplines.
 
 
 <i>Coding environments</i>
 <br>
-Python, Pytorch, OpenAI API, Virtual Computers and Jupyter Notebooks
+Python, React.js, Virtual Computers and Jupyter Notebooks
 
 
 <i>Prerequisites</i>
@@ -42,8 +46,3 @@ Curiosity, college level maths, at least one computer code creation class.
 <br>
 tba
 
-<i>Related Courses</i>
-<br>
-[CreativeCoding](https://github.com/realtechsupport/CreativeCoding)<br>
-[ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)<br> 
-[DataNarratives](https://github.com/realtechsupport/DataNarratives)
