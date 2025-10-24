@@ -21,7 +21,7 @@ Reg# ART543 (#23052) / ART415 (#22205)
 <br><br>
 
 <i>Overview [</i>](https://github.com/realtechsupport/CriticalMachineLearning) <br>
-This advanced undergraduate and graduate course introduces students to the art and science of probing the behavior of Generative Artificial Intelligence (GenAI) systems through critical thinking across disciplines.
+This advanced undergraduate and graduate course introduces students to the art and science of probing the behavior of Generative Artificial Intelligence (GenAI) systems through critical thinking and AI literacy.
 <br><br>
 Artificial Intelligence—particularly its generative branch GenAI—has become a site of cultural and technical transformation, reshaping how knowledge is produced and interpreted across disciplines. Unlike traditional software with deterministic outputs, GenAI systems can produce varied and context-dependent responses to the same input, making their study both technically and critically complex.
 <br><br>
