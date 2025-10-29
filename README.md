@@ -12,6 +12,7 @@ CFA 136
 Reg# ART543 (#23052) / ART415 (#22205) 
 <br>
 
+<!---
 <p align="center">
   <img src="https://github.com/realtechsupport/CriticalMachineLearning/blob/main/student_work.jpg?raw=true" 
        alt="Top:John Fishetti in collaboration with Gpt-2, 2022. Bottom: Group project: Neural Recipe Box, 2023"/>
@@ -20,7 +21,8 @@ Reg# ART543 (#23052) / ART415 (#22205)
   Hemanth Gorla, Divya Kandukuri, Kathryn Korenblyum, Sean Mansfeld and Kelsey Rupe in collaboration with GPT-3.5 and DALL-E: Neural Recipe Box, 2023. </sub>
 </p>
 <br><br>
-
+--->
+  
 <i>Overview [</i>](https://github.com/realtechsupport/CriticalMachineLearning) <br>
 This advanced undergraduate and graduate course introduces students to the art and science of probing the behavior of Generative Artificial Intelligence (GenAI) systems through critical thinking and AI literacy.
 <br><br>
