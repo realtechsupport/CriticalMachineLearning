@@ -1,6 +1,5 @@
 
-# Computational Media
-# What did you just say?
+# Computational Media -  What did you just say?
 <br>
 <i>Taking the pulse of AI models</i>
 </p>
