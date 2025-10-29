@@ -1,9 +1,8 @@
 
 # Computational Media -  What did you just say?
-<br>
 <i>Taking the pulse of AI models</i>
 </p>
-
+<br>
 ART415/543
 <br>
 Monday 15:15 - 18:00
